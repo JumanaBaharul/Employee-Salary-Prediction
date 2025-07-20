@@ -4,7 +4,7 @@ A machine learning project to predict employee salary and resignation using regr
 
 ## Features
 - Data preprocessing (missing values, encoding, scaling)
-- Regression and classification (5 models)
+- Regression and classification (5+ models)
 - Model evaluation (metrics, confusion matrix, R2, MSE, accuracy)
 - Data visualization (histograms, heatmaps, feature importance)
 - Streamlit web app for predictions
