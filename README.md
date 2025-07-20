@@ -46,6 +46,3 @@ Share the generated public URL.
 - `app.py`: Streamlit web app
 - `requirements.txt`: Python dependencies
 - `README.md`: Project documentation
-
-## License
-MIT 
